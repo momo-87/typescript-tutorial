@@ -1,9 +1,5 @@
 // classes
 class Invoice {
-    // readonly client: string;
-    // private details: string;
-    // public amount: number;
-
     constructor(
         readonly client: string,
         private details: string,
