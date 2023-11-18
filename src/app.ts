@@ -36,7 +36,6 @@ const addUID = <T extends {name: string}>(obj: T) => {
 }
 
 let docOne = addUID({name: 'momo', age: 37});
-console.log(docOne.age);
 
 // with interfaces
 interface Resource<T> {
