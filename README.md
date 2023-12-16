@@ -14,3 +14,6 @@
 - [x] Interfaces
 - [x] Interfaces with Classes
 - [x] Rendering an HTML Template
+- [x] Generics
+- [x] Enums
+- [x] Tuples
